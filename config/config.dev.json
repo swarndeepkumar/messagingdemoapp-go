@@ -1,0 +1,6 @@
+{   
+	 "Con_Bootstrap": "localhost:9092",
+	 "Con_Groupid":   "demoapplication1",
+	 "Con_SessionTimeoutMS":   "6000",
+	 "Pro_Bootstrap": "localhost:9092"
+}
